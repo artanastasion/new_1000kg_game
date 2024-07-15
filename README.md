@@ -6,7 +6,8 @@
 ## Установка
 Для запуска игры вам потребуется установить Python и библиотеку Pygame. Следуйте инструкциям ниже для установки необходимых зависимостей:
 
-1. Установите Python: [Python Download](https://www.python.org/downloads2. Установите Pygame, выполнив следующую команду в терминале:
+1. Установите Python: [Python Download](https://www.python.org/downloads
+2. Установите Pygame, выполнив следующую команду в терминале:
     ```bash
     pip install pygame
     ```
